@@ -56,7 +56,8 @@ window.PORTFOLIO_CONFIG = {
         'Deployed on AWS EC2 with AWS RDS (PostgreSQL) and Cloudflare DNS; manages all DevOps via Docker and manual CI/CD.',
       ],
       blogs: [
-        { label: '🌐 divider.in', url: 'https://divider.in' },
+        { label: '<i class="fa-brands fa-google-play"></i> Play Store', url: 'https://play.google.com/store/apps/details?id=in.divider.app' },
+        { label: '<i class="fa-solid fa-globe"></i> divider.in',         url: 'https://divider.in' },
       ],
     },
     {
@@ -74,8 +75,8 @@ window.PORTFOLIO_CONFIG = {
         'Conducted benchmarking and comparative analysis of agent-building frameworks; investigated and cataloged AI agent failure scenarios.',
       ],
       blogs: [
-        { label: 'Agent Building Frameworks', url: 'https://www.devxlabs.ai/blogs/agent-building-frameworks' },
-        { label: 'Semantic Kernel Multi-Tool Bug', url: 'https://www.devxlabs.ai/blogs/semantic-kernel-bedrock-multi-tool-bug' },
+        { label: '<i class="fa-solid fa-book-open"></i> Agent Building Frameworks', url: 'https://www.devxlabs.ai/blogs/agent-building-frameworks' },
+        { label: '<i class="fa-solid fa-book-open"></i> Semantic Kernel Multi-Tool Bug', url: 'https://www.devxlabs.ai/blogs/semantic-kernel-bedrock-multi-tool-bug' },
       ],
     },
     {

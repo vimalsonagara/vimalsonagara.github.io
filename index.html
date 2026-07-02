@@ -402,7 +402,7 @@
       <div class="exp-location">📍 ${e.type} · ${e.location}</div>
       <ul>${e.bullets.map(b => `<li>${b}</li>`).join('')}</ul>
       ${e.blogs.length ? `<div class="blog-links">${e.blogs.map(b =>
-        `<a href="${b.url}" target="_blank" class="blog-chip">📝 ${b.label}</a>`
+        `<a href="${b.url}" target="_blank" class="blog-chip">${b.label}</a>`
       ).join('')}</div>` : ''}
     </div>
   `).join('');
