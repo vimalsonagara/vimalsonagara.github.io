@@ -19,7 +19,7 @@ window.PORTFOLIO_CONFIG = {
     photo:      'asset/Vimal.jpg',
     email:      'vimalsonagara0207@gmail.com',
     phone:      '+91 6353119347',
-    cvLink:     'https://drive.google.com/file/d/1jmBIZTQ8MQg55LWXaGuiC4kr8pcWIZYU/view?usp=sharing',
+    cvLink:     'https://drive.google.com/file/d/1fHt4684S9177k-OGbi_PKI8spC3jjUeH/view',
     available:  true,
   },
 
